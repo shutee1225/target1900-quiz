@@ -1,4 +1,4 @@
-const CACHE_NAME = "target1900-offline-v5";
+const CACHE_NAME = "target1900-offline-v6";
 
 // Offline operation only requires the app shell here.
 // Icons are cached separately so a missing/renamed icon cannot break installation.
